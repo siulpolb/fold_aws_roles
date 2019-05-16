@@ -1,6 +1,6 @@
 {
     "name": "Fold AWS Roles List",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Fold the roles list on the federated AWS login",
     "manifest_version": 2,
     "permissions": ["https://signin.aws.amazon.com/saml"],
