@@ -2,7 +2,7 @@
 
 ## Description
 
-Web extension for fold the list of roles on the federated login page of AWS.
+Web extension to fold and Filter the list of accounts on the federated login page of AWS.
 Usefull when you have access to several accounts.
 
 ## Install
